@@ -50,6 +50,20 @@ p {
   background: #f0f0f0;
 }
 
+.email-button {
+  background: #1f1f1f;
+  color: #ffffff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 18px;
+  cursor: pointer;
+}
+
+.email-button:active,
+.email-button:focus {
+  background: #1f7a3f;
+}
+
 .action {
   background: #1f1f1f;
   color: #ffffff;
